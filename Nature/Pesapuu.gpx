@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with BasicAirData GPS Logger for Android - ver. 3.1.4 -->
+<!-- Track 5 = 15 TrackPoints + 1 Placemarks -->
+
+<!-- Track Statistics (based on Total Time | Time in Movement): -->
+<!--  Distance = 0 m -->
+<!--  Duration = 00:14 | 00:00 -->
+<!--  Altitude Gap = 4 m -->
+<!--  Max Speed = 0 km/h -->
+<!--  Avg Speed = 0,2 |  km/h -->
+<!--  Activity = other -->
+
+<gpx version="1.0"
+     creator="BasicAirData GPS Logger 3.1.4"
+     xmlns="http://www.topografix.com/GPX/1/0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<name>GPS Logger 20220522-143250</name>
+<desc>Pesapuu 2</desc>
+<time>2022-05-22T14:39:15Z</time>
+<keywords>other</keywords>
+<bounds minlat="59.39274403" minlon="24.68355140" maxlat="59.39275068" maxlon="24.68356678" />
+
+<wpt lat="59.39274938" lon="24.68356556"><ele>43.402</ele><time>2022-05-22T11:32:53Z</time><name>Pesapuu 2</name><sat>19</sat></wpt>
+
+</gpx>
+ 

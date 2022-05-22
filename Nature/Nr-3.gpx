@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with BasicAirData GPS Logger for Android - ver. 3.1.4 -->
+<!-- Track 1 = 3697 TrackPoints + 27 Placemarks -->
+
+<!-- Track Statistics (based on Total Time | Time in Movement): -->
+<!--  Distance = 1.01 km -->
+<!--  Duration = 01:32:07 | 11:21 -->
+<!--  Altitude Gap = -15 m -->
+<!--  Max Speed = 5 km/h -->
+<!--  Avg Speed = 0.7 | 5.3 km/h -->
+<!--  Direction = ENE -->
+<!--  Activity = walking -->
+
+<gpx version="1.0"
+     creator="BasicAirData GPS Logger 3.1.4"
+     xmlns="http://www.topografix.com/GPX/1/0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<name>GPS Logger 20220522-122808</name>
+<desc>Mahavoetud puud</desc>
+<time>2022-05-22T11:00:59Z</time>
+<keywords>walking</keywords>
+<bounds minlat="59.39296000" minlon="24.68639500" maxlat="59.39624667" maxlon="24.69554500" />
+
+<wpt lat="59.39518333" lon="24.68772500"><ele>37.300</ele><time>2022-05-22T10:04:11Z</time><name>44 mänd</name><sat>29</sat></wpt>
+
+<wpt lat="59.39479333" lon="24.68804000"><ele>35.300</ele><time>2022-05-22T10:10:09Z</time><name>32 mänd</name><sat>27</sat></wpt>
+
+<wpt lat="59.39304833" lon="24.68928833"><ele>35.200</ele><time>2022-05-22T10:15:23Z</time><name>7 lehtpuu</name><sat>28</sat></wpt>
+
+<wpt lat="59.39298833" lon="24.68935667"><ele>36.300</ele><time>2022-05-22T10:15:42Z</time><name>7 lehtpuu</name><sat>27</sat></wpt>
+
+<wpt lat="59.39296000" lon="24.68937167"><ele>34.500</ele><time>2022-05-22T10:16:00Z</time><name>8 lehtpuu</name><sat>27</sat></wpt>
+
+<wpt lat="59.39332500" lon="24.69162500"><ele>30.800</ele><time>2022-05-22T10:20:38Z</time><name>39 lehtpuu põhjendamatu raie</name><sat>28</sat></wpt>
+
+<wpt lat="59.39332167" lon="24.69152333"><ele>29.800</ele><time>2022-05-22T10:22:02Z</time><name>11 lehtpuu põhjendamatu raie</name><sat>30</sat></wpt>
+
+<wpt lat="59.39332500" lon="24.69163000"><ele>31.700</ele><time>2022-05-22T10:22:45Z</time><name>7 lehtpuu põhjendamatu raie</name><sat>30</sat></wpt>
+
+<wpt lat="59.39333333" lon="24.69162500"><ele>30.100</ele><time>2022-05-22T10:23:37Z</time><name>44 lehtpuu põhjendamatu raie</name><sat>28</sat></wpt>
+
+<wpt lat="59.39338000" lon="24.69191333"><ele>30.100</ele><time>2022-05-22T10:24:49Z</time><name>15 lehtpuu</name><sat>28</sat></wpt>
+
+<wpt lat="59.39338500" lon="24.69191833"><ele>28.200</ele><time>2022-05-22T10:25:15Z</time><name>12 lehtpuu</name><sat>28</sat></wpt>
+
+<wpt lat="59.39338500" lon="24.69191833"><ele>28.200</ele><time>2022-05-22T10:25:50Z</time><name>10 lehtpuu</name><sat>29</sat></wpt>
+
+<wpt lat="59.39338500" lon="24.69191833"><ele>28.200</ele><time>2022-05-22T10:26:08Z</time><name>10 lehtpuu</name><sat>27</sat></wpt>
+
+<wpt lat="59.39338500" lon="24.69191833"><ele>28.200</ele><time>2022-05-22T10:26:33Z</time><name>46 lehtpuu</name><sat>29</sat></wpt>
+
+<wpt lat="59.39338500" lon="24.69191833"><ele>28.200</ele><time>2022-05-22T10:26:59Z</time><name>54 lehtpuu</name><sat>29</sat></wpt>
+
+<wpt lat="59.39338500" lon="24.69191833"><ele>28.200</ele><time>2022-05-22T10:27:33Z</time><name>8 lehtpuu</name><sat>29</sat></wpt>
+
+<wpt lat="59.39348833" lon="24.69213500"><ele>28.400</ele><time>2022-05-22T10:28:34Z</time><name>36 mänd</name><sat>29</sat></wpt>
+
+<wpt lat="59.39352000" lon="24.69215000"><ele>30.900</ele><time>2022-05-22T10:29:37Z</time><name>7 lehtpuu</name><sat>28</sat></wpt>
+
+<wpt lat="59.39356000" lon="24.69223167"><ele>34.900</ele><time>2022-05-22T10:31:25Z</time><name>54 mänd</name><sat>28</sat></wpt>
+
+<wpt lat="59.39356000" lon="24.69223167"><ele>34.900</ele><time>2022-05-22T10:31:52Z</time><name>50 mänd</name><sat>26</sat></wpt>
+
+<wpt lat="59.39431167" lon="24.69296667"><ele>31.900</ele><time>2022-05-22T10:35:22Z</time><name>39 mänd ? Vana</name><sat>27</sat></wpt>
+
+<wpt lat="59.39474000" lon="24.69328667"><ele>34.200</ele><time>2022-05-22T10:37:27Z</time><name>31 lehtpuu</name><sat>28</sat></wpt>
+
+<wpt lat="59.39486333" lon="24.69335333"><ele>29.800</ele><time>2022-05-22T10:38:28Z</time><name>26 lehtpuu</name><sat>27</sat></wpt>
+
+<wpt lat="59.39486333" lon="24.69335333"><ele>29.800</ele><time>2022-05-22T10:38:48Z</time><name>27 lehtpuu</name><sat>27</sat></wpt>
+
+<wpt lat="59.39486333" lon="24.69335333"><ele>29.800</ele><time>2022-05-22T10:39:06Z</time><name>49 lehtpuu</name><sat>25</sat></wpt>
+
+<wpt lat="59.39488500" lon="24.69335667"><ele>25.600</ele><time>2022-05-22T10:39:30Z</time><name>43 lehtpuu</name><sat>27</sat></wpt>
+
+<wpt lat="59.39488500" lon="24.69335667"><ele>25.600</ele><time>2022-05-22T10:39:56Z</time><name>15 lehtpuu</name><sat>27</sat></wpt>
+
+</gpx>
+ 
