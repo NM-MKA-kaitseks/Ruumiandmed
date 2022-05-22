@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with BasicAirData GPS Logger for Android - ver. 3.1.4 -->
+<!-- Track 1 = 128 TrackPoints + 6 Placemarks -->
+
+<!-- Track Statistics (based on Total Time | Time in Movement): -->
+<!--  Distance = 65 m -->
+<!--  Duration = 02:07 | 00:41 -->
+<!--  Altitude Gap = 14 m -->
+<!--  Max Speed = 6 km/h -->
+<!--  Avg Speed = 1,8 | 5,7 km/h -->
+<!--  Direction = ENE -->
+<!--  Activity = walking -->
+
+<gpx version="1.0"
+     creator="BasicAirData GPS Logger 3.1.4"
+     xmlns="http://www.topografix.com/GPX/1/0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<name>GPS Logger 20220521-020554</name>
+<desc>Katse</desc>
+<time>2022-05-21T18:52:54Z</time>
+<keywords>walking</keywords>
+<bounds minlat="59.36735118" minlon="24.66240574" maxlat="59.36764176" maxlon="24.66338949" />
+
+<wpt lat="59.36742632" lon="24.66265773"><ele>71.279</ele><time>2022-05-20T23:06:08Z</time><name>Puu 1</name><sat>20</sat></wpt>
+
+<wpt lat="59.36742980" lon="24.66282406"><ele>72.655</ele><time>2022-05-20T23:06:25Z</time><name>Puu 2</name><sat>24</sat></wpt>
+
+<wpt lat="59.36747419" lon="24.66292636"><ele>78.763</ele><time>2022-05-20T23:06:42Z</time><name>Puu 3</name><sat>24</sat></wpt>
+
+<wpt lat="59.36752969" lon="24.66306814"><ele>74.965</ele><time>2022-05-20T23:07:02Z</time><name>Puu 4</name><sat>25</sat></wpt>
+
+<wpt lat="59.36759393" lon="24.66328491"><ele>77.129</ele><time>2022-05-20T23:07:22Z</time><name>Puu 5</name><sat>25</sat></wpt>
+
+<wpt lat="59.36764164" lon="24.66338688"><ele>80.648</ele><time>2022-05-20T23:07:49Z</time><name>Puu 6</name><sat>24</sat></wpt>
+
+</gpx>
+ 
