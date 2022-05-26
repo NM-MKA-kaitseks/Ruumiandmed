@@ -23,6 +23,10 @@
 <keywords>walking</keywords>
 <bounds minlat="59.38930000" minlon="24.66712333" maxlat="59.39464333" maxlon="24.68924353" />
 
+<!-- Tore mõõdetud kaks gelokeerimata kändu -->
+<wpt lat="59.395641" lon="24.691127"><ele>58.476</ele><time>2022-05-26T17:40:11Z</time><name>35 mänd</name><sat>17</sat></wpt>
+<wpt lat="59.39557" lon="24.691122"><ele>58.476</ele><time>2022-05-26T17:40:11Z</time><name>40 mänd</name><sat>17</sat></wpt>
+
 <wpt lat="59.38970296" lon="24.66851154"><ele>58.476</ele><time>2022-05-26T17:40:11Z</time><name>40 mänd</name><sat>17</sat></wpt>
 
 <wpt lat="59.38996593" lon="24.67216968"><ele>50.537</ele><time>2022-05-26T17:16:33Z</time><name>51 mänd</name><sat>16</sat></wpt>
