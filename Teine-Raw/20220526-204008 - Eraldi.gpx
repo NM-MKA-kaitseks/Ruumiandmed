@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with BasicAirData GPS Logger for Android - ver. 3.1.4 -->
+<!-- Track 11 = 37 TrackPoints + 1 Placemarks -->
+
+<!-- Track Statistics (based on Total Time | Time in Movement): -->
+<!--  Distance = 21 m -->
+<!--  Duration = 00:36 | 00:10 -->
+<!--  Altitude Gap = -1 m -->
+<!--  Max Speed = 5 km/h -->
+<!--  Avg Speed = 2,2 | 7,8 km/h -->
+<!--  Direction = W -->
+<!--  Activity = walking -->
+
+<gpx version="1.0"
+     creator="BasicAirData GPS Logger 3.1.4"
+     xmlns="http://www.topografix.com/GPX/1/0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<name>GPS Logger 20220526-204008</name>
+<desc>Eraldi</desc>
+<time>2022-05-26T21:22:34Z</time>
+<keywords>walking</keywords>
+<bounds minlat="59.38968869" minlon="24.66818009" maxlat="59.38973753" maxlon="24.66854346" />
+
+<wpt lat="59.38970296" lon="24.66851154"><ele>58.476</ele><time>2022-05-26T17:40:11Z</time><name>40 m</name><sat>17</sat></wpt>
+
+<trk>
+ <name>Track 20220526-204008</name>
+ <trkseg>
+  <trkpt lat="59.38972279" lon="24.66854346"><ele>57.911</ele><time>2022-05-26T17:40:08Z</time><speed>0.000</speed><sat>15</sat></trkpt>
+  <trkpt lat="59.38971647" lon="24.66853482"><ele>58.693</ele><time>2022-05-26T17:40:09Z</time><speed>0.000</speed><sat>17</sat></trkpt>
+  <trkpt lat="59.38970949" lon="24.66852217"><ele>58.767</ele><time>2022-05-26T17:40:10Z</time><speed>0.000</speed><sat>17</sat></trkpt>
+  <trkpt lat="59.38970296" lon="24.66851154"><ele>58.476</ele><time>2022-05-26T17:40:11Z</time><speed>0.000</speed><sat>17</sat></trkpt>
+  <trkpt lat="59.38970077" lon="24.66850405"><ele>58.413</ele><time>2022-05-26T17:40:12Z</time><speed>0.000</speed><sat>18</sat></trkpt>
+  <trkpt lat="59.38969805" lon="24.66850232"><ele>57.771</ele><time>2022-05-26T17:40:13Z</time><speed>0.000</speed><sat>18</sat></trkpt>
+  <trkpt lat="59.38969541" lon="24.66849890"><ele>57.023</ele><time>2022-05-26T17:40:14Z</time><speed>0.000</speed><sat>18</sat></trkpt>
+  <trkpt lat="59.38969374" lon="24.66849614"><ele>57.425</ele><time>2022-05-26T17:40:15Z</time><speed>0.000</speed><sat>18</sat></trkpt>
+  <trkpt lat="59.38969507" lon="24.66849526"><ele>58.263</ele><time>2022-05-26T17:40:16Z</time><speed>0.000</speed><sat>18</sat></trkpt>
+  <trkpt lat="59.38969604" lon="24.66849575"><ele>58.816</ele><time>2022-05-26T17:40:17Z</time><speed>0.000</speed><sat>19</sat></trkpt>
+  <trkpt lat="59.38969539" lon="24.66849936"><ele>59.731</ele><time>2022-05-26T17:40:18Z</time><speed>0.000</speed><sat>20</sat></trkpt>
+  <trkpt lat="59.38969389" lon="24.66850188"><ele>59.968</ele><time>2022-05-26T17:40:19Z</time><speed>0.000</speed><sat>20</sat></trkpt>
+  <trkpt lat="59.38969084" lon="24.66850371"><ele>60.047</ele><time>2022-05-26T17:40:20Z</time><speed>0.000</speed><sat>20</sat></trkpt>
+  <trkpt lat="59.38969035" lon="24.66850131"><ele>59.560</ele><time>2022-05-26T17:40:21Z</time><speed>0.000</speed><sat>20</sat></trkpt>
+  <trkpt lat="59.38968984" lon="24.66849868"><ele>59.428</ele><time>2022-05-26T17:40:22Z</time><speed>0.000</speed><sat>18</sat></trkpt>
+  <trkpt lat="59.38968932" lon="24.66849659"><ele>59.400</ele><time>2022-05-26T17:40:23Z</time><speed>0.000</speed><sat>19</sat></trkpt>
+  <trkpt lat="59.38968906" lon="24.66849544"><ele>59.393</ele><time>2022-05-26T17:40:24Z</time><speed>0.000</speed><sat>20</sat></trkpt>
+  <trkpt lat="59.38968882" lon="24.66849469"><ele>59.157</ele><time>2022-05-26T17:40:25Z</time><speed>0.000</speed><sat>20</sat></trkpt>
+  <trkpt lat="59.38968869" lon="24.66849411"><ele>59.149</ele><time>2022-05-26T17:40:26Z</time><speed>0.000</speed><sat>21</sat></trkpt>
+  <trkpt lat="59.38968991" lon="24.66846629"><ele>58.558</ele><time>2022-05-26T17:40:27Z</time><speed>1.490</speed><sat>21</sat></trkpt>
+  <trkpt lat="59.38969244" lon="24.66843214"><ele>59.856</ele><time>2022-05-26T17:40:28Z</time><speed>1.330</speed><sat>17</sat></trkpt>
+  <trkpt lat="59.38969696" lon="24.66840103"><ele>59.455</ele><time>2022-05-26T17:40:29Z</time><speed>1.460</speed><sat>13</sat></trkpt>
+  <trkpt lat="59.38970235" lon="24.66837339"><ele>58.609</ele><time>2022-05-26T17:40:30Z</time><speed>1.090</speed><sat>16</sat></trkpt>
+  <trkpt lat="59.38970709" lon="24.66835472"><ele>58.374</ele><time>2022-05-26T17:40:31Z</time><speed>0.720</speed><sat>14</sat></trkpt>
+  <trkpt lat="59.38971100" lon="24.66833886"><ele>58.223</ele><time>2022-05-26T17:40:32Z</time><speed>0.540</speed><sat>12</sat></trkpt>
+  <trkpt lat="59.38971439" lon="24.66831926"><ele>59.180</ele><time>2022-05-26T17:40:33Z</time><speed>0.850</speed><sat>15</sat></trkpt>
+  <trkpt lat="59.38971778" lon="24.66829295"><ele>58.279</ele><time>2022-05-26T17:40:34Z</time><speed>1.130</speed><sat>12</sat></trkpt>
+  <trkpt lat="59.38971977" lon="24.66826909"><ele>57.339</ele><time>2022-05-26T17:40:35Z</time><speed>0.730</speed><sat>14</sat></trkpt>
+  <trkpt lat="59.38972346" lon="24.66825326"><ele>57.192</ele><time>2022-05-26T17:40:36Z</time><speed>0.590</speed><sat>15</sat></trkpt>
+  <trkpt lat="59.38972362" lon="24.66823222"><ele>56.131</ele><time>2022-05-26T17:40:37Z</time><speed>0.000</speed><sat>13</sat></trkpt>
+  <trkpt lat="59.38972685" lon="24.66822431"><ele>56.081</ele><time>2022-05-26T17:40:38Z</time><speed>0.000</speed><sat>16</sat></trkpt>
+  <trkpt lat="59.38972786" lon="24.66821628"><ele>56.057</ele><time>2022-05-26T17:40:39Z</time><speed>0.000</speed><sat>13</sat></trkpt>
+  <trkpt lat="59.38972817" lon="24.66820826"><ele>55.892</ele><time>2022-05-26T17:40:40Z</time><speed>0.000</speed><sat>13</sat></trkpt>
+  <trkpt lat="59.38972831" lon="24.66820661"><ele>55.707</ele><time>2022-05-26T17:40:41Z</time><speed>0.000</speed><sat>14</sat></trkpt>
+  <trkpt lat="59.38973238" lon="24.66819858"><ele>56.071</ele><time>2022-05-26T17:40:42Z</time><speed>0.430</speed><sat>13</sat></trkpt>
+  <trkpt lat="59.38973459" lon="24.66819026"><ele>54.965</ele><time>2022-05-26T17:40:43Z</time><speed>0.190</speed><sat>16</sat></trkpt>
+  <trkpt lat="59.38973753" lon="24.66818009"><ele>56.792</ele><time>2022-05-26T17:40:44Z</time><speed>0.000</speed><sat>14</sat></trkpt>
+ </trkseg>
+</trk>
+
+</gpx>
+ 

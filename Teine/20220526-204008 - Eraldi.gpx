@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with BasicAirData GPS Logger for Android - ver. 3.1.4 -->
+<!-- Track 11 = 37 TrackPoints + 1 Placemarks -->
+
+<!-- Track Statistics (based on Total Time | Time in Movement): -->
+<!--  Distance = 21 m -->
+<!--  Duration = 00:36 | 00:10 -->
+<!--  Altitude Gap = -1 m -->
+<!--  Max Speed = 5 km/h -->
+<!--  Avg Speed = 2,2 | 7,8 km/h -->
+<!--  Direction = W -->
+<!--  Activity = walking -->
+
+<gpx version="1.0"
+     creator="BasicAirData GPS Logger 3.1.4"
+     xmlns="http://www.topografix.com/GPX/1/0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<name>GPS Logger 20220526-204008</name>
+<desc>Eraldi</desc>
+<time>2022-05-26T21:22:34Z</time>
+<keywords>walking</keywords>
+<bounds minlat="59.38968869" minlon="24.66818009" maxlat="59.38973753" maxlon="24.66854346" />
+
+<wpt lat="59.38970296" lon="24.66851154"><ele>58.476</ele><time>2022-05-26T17:40:11Z</time><name>40 m</name><sat>17</sat></wpt>
+
+</gpx>
+ 

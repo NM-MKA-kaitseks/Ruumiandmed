@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with BasicAirData GPS Logger for Android - ver. 3.1.4 -->
+<!-- Track 12 = 8 TrackPoints + 1 Placemarks -->
+
+<!-- Track Statistics (based on Total Time | Time in Movement): -->
+<!--  Distance = 16 m -->
+<!--  Duration = 00:07 | 00:03 -->
+<!--  Altitude Gap = 17 m -->
+<!--  Max Speed = 3 km/h -->
+<!--  Avg Speed = 8,7 | 20,3 km/h -->
+<!--  Activity = other -->
+
+<gpx version="1.0"
+     creator="BasicAirData GPS Logger 3.1.4"
+     xmlns="http://www.topografix.com/GPX/1/0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<name>GPS Logger 20220526-210725</name>
+<desc>Kukl 2</desc>
+<time>2022-05-26T21:22:47Z</time>
+<keywords>other</keywords>
+<bounds minlat="59.38975959" minlon="24.67858221" maxlat="59.38990159" maxlon="24.67868911" />
+
+<wpt lat="59.38975959" lon="24.67858221"><ele>57.946</ele><time>2022-05-26T18:07:25Z</time><name>Kukl</name><sat>16</sat></wpt>
+
+</gpx>
+ 

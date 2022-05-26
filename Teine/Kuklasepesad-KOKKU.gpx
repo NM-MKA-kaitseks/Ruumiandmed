@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with BasicAirData GPS Logger for Android - ver. 3.1.4 -->
+<!-- Track 2 = 4527 TrackPoints + 145 Placemarks -->
+<!-- Track 3 = 3190 TrackPoints + 104 Placemarks -->
+
+<!-- Track Statistics (based on Total Time | Time in Movement): -->
+<!--  Distance = 1.28 km -->
+<!--  Duration = 01:15:30 | 14:38 -->
+<!--  Altitude Gap = -2 m -->
+<!--  Max Speed = 7 km/h -->
+<!--  Avg Speed = 1.0 | 5.3 km/h -->
+<!--  Direction = SW -->
+<!--  Activity = walking -->
+
+<gpx version="1.0"
+     creator="BasicAirData GPS Logger 3.1.4"
+     xmlns="http://www.topografix.com/GPX/1/0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<name>GPS Logger 20220526-182430</name>
+<desc>Kaia track</desc>
+<time>2022-05-26T16:40:46Z</time>
+<keywords>walking</keywords>
+<bounds minlat="59.38930000" minlon="24.66712333" maxlat="59.39464333" maxlon="24.68924353" />
+
+<wpt lat="59.38975959" lon="24.67858221"><ele>57.946</ele><time>2022-05-26T18:07:25Z</time><name>Sipelgapesa</name><sat>16</sat></wpt>
+<wpt lat="59.38938714" lon="24.67368162"><ele>38.327</ele><time>2022-05-26T17:13:33Z</time><name>Sipelgapesa</name><sat>19</sat></wpt>
+<wpt lat="59.39351000" lon="24.68524167"><ele>39.200</ele><time>2022-05-26T15:31:02Z</time><name>Sipelgapesa</name><sat>28</sat></wpt>
+<wpt lat="59.39353552" lon="24.68501471"><ele>59.034</ele><time>2022-05-26T15:31:55.999Z</time><name>Sipelgapesa</name><sat>21</sat></wpt>
+<wpt lat="59.38991291" lon="24.67009042"><ele>68.284</ele><time>2022-05-26T17:27:54Z</time><name>Sipelgapesa</name><sat>21</sat></wpt>
+<wpt lat="59.38969326" lon="24.66914362"><ele>60.515</ele><time>2022-05-26T17:33:38Z</time><name>Sipelgapesa</name><sat>21</sat></wpt>
+<wpt lat="59.38985322" lon="24.66755328"><ele>63.242</ele><time>2022-05-26T17:41:53Z</time><name>Sipelgapesa</name><sat>22</sat></wpt>
+<wpt lat="59.39301637" lon="24.68913936"><ele>52.382</ele><time>2022-05-26T15:30:31Z</time><name>Sipelgapesa</name><sat>21</sat></wpt>
+<wpt lat="59.39212866" lon="24.68587596"><ele>60.940</ele><time>2022-05-26T15:44:30Z</time><name>Sipelgapesa</name><sat>25</sat></wpt>
+<wpt lat="59.39177651" lon="24.68418996"><ele>53.998</ele><time>2022-05-26T15:58:43Z</time><name>Sipelgapesa</name><sat>10</sat></wpt>
+<wpt lat="59.39284754" lon="24.68863426"><ele>59.448</ele><time>2022-05-22T10:15:22.999Z</time><name>Kuklasepesa puutumatu</name><sat>34</sat></wpt>
+<wpt lat="59.39226170" lon="24.68688040"><ele>60.907</ele><time>2022-05-22T10:18:30.999Z</time><name>Kuklasepesa kändudega 67 ja18</name><sat>37</sat></wpt>
+
+</gpx>
+ 

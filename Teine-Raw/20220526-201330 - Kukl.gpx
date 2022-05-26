@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with BasicAirData GPS Logger for Android - ver. 3.1.4 -->
+<!-- Track 9 = 13 TrackPoints + 1 Placemarks -->
+
+<!-- Track Statistics (based on Total Time | Time in Movement): -->
+<!--  Distance = 7 m -->
+<!--  Duration = 00:12 | 00:00 -->
+<!--  Altitude Gap = 11 m -->
+<!--  Max Speed = 2 km/h -->
+<!--  Avg Speed = 2,3 |  km/h -->
+<!--  Activity = other -->
+
+<gpx version="1.0"
+     creator="BasicAirData GPS Logger 3.1.4"
+     xmlns="http://www.topografix.com/GPX/1/0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<name>GPS Logger 20220526-201330</name>
+<desc>Kukl</desc>
+<time>2022-05-26T21:22:04Z</time>
+<keywords>other</keywords>
+<bounds minlat="59.38938289" minlon="24.67359089" maxlat="59.38940084" maxlon="24.67372463" />
+
+<wpt lat="59.38938714" lon="24.67368162"><ele>38.327</ele><time>2022-05-26T17:13:33Z</time><name>Kukl</name><sat>19</sat></wpt>
+
+<trk>
+ <name>Track 20220526-201330</name>
+ <trkseg>
+  <trkpt lat="59.38939565" lon="24.67372463"><ele>44.125</ele><time>2022-05-26T17:13:30Z</time><speed>0.490</speed><sat>18</sat></trkpt>
+  <trkpt lat="59.38939688" lon="24.67371275"><ele>40.321</ele><time>2022-05-26T17:13:31Z</time><speed>0.000</speed><sat>19</sat></trkpt>
+  <trkpt lat="59.38939654" lon="24.67369627"><ele>41.024</ele><time>2022-05-26T17:13:32Z</time><speed>0.000</speed><sat>19</sat></trkpt>
+  <trkpt lat="59.38938714" lon="24.67368162"><ele>38.327</ele><time>2022-05-26T17:13:33Z</time><speed>0.000</speed><sat>19</sat></trkpt>
+  <trkpt lat="59.38938289" lon="24.67367113"><ele>39.377</ele><time>2022-05-26T17:13:34Z</time><speed>0.000</speed><sat>19</sat></trkpt>
+  <trkpt lat="59.38938628" lon="24.67365708"><ele>44.535</ele><time>2022-05-26T17:13:35Z</time><speed>0.000</speed><sat>19</sat></trkpt>
+  <trkpt lat="59.38939267" lon="24.67364942"><ele>46.437</ele><time>2022-05-26T17:13:36Z</time><speed>0.000</speed><sat>19</sat></trkpt>
+  <trkpt lat="59.38939855" lon="24.67363912"><ele>49.769</ele><time>2022-05-26T17:13:37Z</time><speed>0.000</speed><sat>19</sat></trkpt>
+  <trkpt lat="59.38940084" lon="24.67362860"><ele>51.189</ele><time>2022-05-26T17:13:38Z</time><speed>0.000</speed><sat>18</sat></trkpt>
+  <trkpt lat="59.38939673" lon="24.67361856"><ele>50.929</ele><time>2022-05-26T17:13:39Z</time><speed>0.000</speed><sat>18</sat></trkpt>
+  <trkpt lat="59.38939641" lon="24.67360989"><ele>52.281</ele><time>2022-05-26T17:13:40Z</time><speed>0.000</speed><sat>19</sat></trkpt>
+  <trkpt lat="59.38939769" lon="24.67359826"><ele>54.650</ele><time>2022-05-26T17:13:41Z</time><speed>0.000</speed><sat>19</sat></trkpt>
+  <trkpt lat="59.38939643" lon="24.67359089"><ele>54.872</ele><time>2022-05-26T17:13:42Z</time><speed>0.000</speed><sat>19</sat></trkpt>
+ </trkseg>
+</trk>
+
+</gpx>
+ 
