@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with BasicAirData GPS Logger for Android - ver. 3.1.4 -->
+<!-- Track 2 = 2908 TrackPoints + 33 Placemarks -->
+
+<!-- Track Statistics (based on Total Time | Time in Movement): -->
+<!--  Distance = 646 m -->
+<!--  Duration = 48:27 | 18:42 -->
+<!--  Altitude Gap = 7 m -->
+<!--  Max Speed = 8 km/h -->
+<!--  Avg Speed = 0,8 | 2,1 km/h -->
+<!--  Direction = E -->
+<!--  Activity = walking -->
+
+<gpx version="1.0"
+     creator="BasicAirData GPS Logger 3.1.4"
+     xmlns="http://www.topografix.com/GPX/1/0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<name>GPS Logger 20220522-130309</name>
+<desc>Sütiste mets</desc>
+<time>2022-05-22T16:31:02Z</time>
+<keywords>walking</keywords>
+<bounds minlat="59.39464389" minlon="24.68776465" maxlat="59.39581238" maxlon="24.69373367" />
+
+<wpt lat="59.39520031" lon="24.68770635"><ele>51.177</ele><time>2022-05-22T10:11:28Z</time><name>38 m</name><sat>16</sat></wpt>
+<wpt lat="59.39479145" lon="24.68860346"><ele>53.926</ele><time>2022-05-22T10:13:17Z</time><name>47 m</name><sat>27</sat></wpt>
+<wpt lat="59.39483713" lon="24.68864825"><ele>47.532</ele><time>2022-05-22T10:13:55Z</time><name>47 m</name><sat>27</sat></wpt>
+<wpt lat="59.39485138" lon="24.68880627"><ele>45.352</ele><time>2022-05-22T10:14:50Z</time><name>44 m</name><sat>20</sat></wpt>
+<wpt lat="59.39481989" lon="24.68886780"><ele>53.177</ele><time>2022-05-22T10:15:38Z</time><name>35 m</name><sat>28</sat></wpt>
+<wpt lat="59.39481506" lon="24.68887196"><ele>54.347</ele><time>2022-05-22T10:15:48Z</time><name>36 m</name><sat>24</sat></wpt>
+<wpt lat="59.39487718" lon="24.68901526"><ele>50.926</ele><time>2022-05-22T10:16:15Z</time><name>69 m</name><sat>27</sat></wpt>
+<wpt lat="59.39484932" lon="24.68897246"><ele>52.076</ele><time>2022-05-22T10:16:37Z</time><name>35 m</name><sat>25</sat></wpt>
+<wpt lat="59.39484064" lon="24.68903535"><ele>52.462</ele><time>2022-05-22T10:17:18Z</time><name>9 lepp</name><sat>26</sat></wpt>
+<wpt lat="59.39483440" lon="24.68905762"><ele>54.502</ele><time>2022-05-22T10:17:44Z</time><name>21 m</name><sat>28</sat></wpt>
+<wpt lat="59.39490479" lon="24.68901549"><ele>54.058</ele><time>2022-05-22T10:18:13Z</time><name>6 lepp</name><sat>22</sat></wpt>
+<wpt lat="59.39504788" lon="24.68979742"><ele>55.500</ele><time>2022-05-22T10:21:04Z</time><name>34 m</name><sat>30</sat></wpt>
+<wpt lat="59.39511010" lon="24.69013728"><ele>55.540</ele><time>2022-05-22T10:21:50Z</time><name>45 m</name><sat>27</sat></wpt>
+<wpt lat="59.39516706" lon="24.69037605"><ele>50.568</ele><time>2022-05-22T10:22:53Z</time><name>10 lepp</name><sat>31</sat></wpt>
+<wpt lat="59.39513513" lon="24.69044875"><ele>56.190</ele><time>2022-05-22T10:23:07Z</time><name>6 lepp</name><sat>30</sat></wpt>
+<wpt lat="59.39528613" lon="24.69079717"><ele>50.426</ele><time>2022-05-22T10:23:56Z</time><name>11 lepp</name><sat>19</sat></wpt>
+<wpt lat="59.39530171" lon="24.69080158"><ele>52.162</ele><time>2022-05-22T10:24:20Z</time><name>46 lepp</name><sat>23</sat></wpt>
+<wpt lat="59.39527550" lon="24.69080336"><ele>51.899</ele><time>2022-05-22T10:24:46Z</time><name>19 lepp</name><sat>22</sat></wpt>
+<wpt lat="59.39527629" lon="24.69079991"><ele>52.863</ele><time>2022-05-22T10:25:11Z</time><name>47 lepp</name><sat>25</sat></wpt>
+<wpt lat="59.39551154" lon="24.69201844"><ele>47.209</ele><time>2022-05-22T10:26:43Z</time><name>13 lepp</name><sat>13</sat></wpt>
+<wpt lat="59.39551294" lon="24.69202402"><ele>47.738</ele><time>2022-05-22T10:27:08Z</time><name>7 lepp</name><sat>23</sat></wpt>
+<wpt lat="59.39551664" lon="24.69241036"><ele>40.490</ele><time>2022-05-22T10:27:52Z</time><name>29 lepp</name><sat>21</sat></wpt>
+<wpt lat="59.39550810" lon="24.69243140"><ele>39.738</ele><time>2022-05-22T10:28:18Z</time><name>21 lepp</name><sat>22</sat></wpt>
+<wpt lat="59.39552821" lon="24.69240332"><ele>42.577</ele><time>2022-05-22T10:28:46Z</time><name>34 lepp</name><sat>13</sat></wpt>
+<wpt lat="59.39554970" lon="24.69243628"><ele>48.539</ele><time>2022-05-22T10:29:38Z</time><name>6 lepp</name><sat>15</sat></wpt>
+<wpt lat="59.39569820" lon="24.69307735"><ele>45.511</ele><time>2022-05-22T10:30:39Z</time><name>45 m</name><sat>20</sat></wpt>
+<wpt lat="59.39567860" lon="24.69309830"><ele>48.804</ele><time>2022-05-22T10:31:05Z</time><name>38 m</name><sat>23</sat></wpt>
+<wpt lat="59.39575216" lon="24.69315912"><ele>55.363</ele><time>2022-05-22T10:31:50Z</time><name>40 m</name><sat>18</sat></wpt>
+<wpt lat="59.39573313" lon="24.69320461"><ele>57.138</ele><time>2022-05-22T10:32:56Z</time><name>20 m</name><sat>11</sat></wpt>
+<wpt lat="59.39573228" lon="24.69320707"><ele>57.017</ele><time>2022-05-22T10:33:10Z</time><name>29 m</name><sat>14</sat></wpt>
+<wpt lat="59.39587921" lon="24.69336606"><ele>50.518</ele><time>2022-05-22T10:34:18Z</time><name>46 m</name><sat>21</sat></wpt>
+<wpt lat="59.39591945" lon="24.69333689"><ele>49.330</ele><time>2022-05-22T10:35:00Z</time><name>49 m</name><sat>20</sat></wpt>
+<wpt lat="59.39550599" lon="24.69358177"><ele>46.140</ele><time>2022-05-22T10:36:53Z</time><name>56 m</name><sat>20</sat></wpt>
+<wpt lat="59.39518507" lon="24.69356258"><ele>47.760</ele><time>2022-05-22T10:38:08Z</time><name>43 m</name><sat>24</sat></wpt>
+<wpt lat="59.39514588" lon="24.69348796"><ele>47.665</ele><time>2022-05-22T10:38:52Z</time><name>51 m</name><sat>26</sat></wpt>
+<wpt lat="59.39508379" lon="24.69340406"><ele>46.707</ele><time>2022-05-22T10:39:42Z</time><name>13 lepp</name><sat>19</sat></wpt>
+<wpt lat="59.39507702" lon="24.69339987"><ele>48.304</ele><time>2022-05-22T10:40:19Z</time><name>34 lepp</name><sat>23</sat></wpt>
+<wpt lat="59.39505842" lon="24.69340537"><ele>48.387</ele><time>2022-05-22T10:40:58Z</time><name>32 lepp</name><sat>19</sat></wpt>
+<wpt lat="59.39504137" lon="24.69340744"><ele>53.046</ele><time>2022-05-22T10:41:41Z</time><name>19 lepp</name><sat>23</sat></wpt>
+<wpt lat="59.39507674" lon="24.68778944"><ele>53.353</ele><time>2022-05-22T10:08:30.999Z</time><name>34mänd</name><sat>36</sat></wpt>
+<wpt lat="59.39226170" lon="24.68688040"><ele>60.907</ele><time>2022-05-22T10:18:30.999Z</time><name>Kuklasepesa kändudega 67 ja18</name><sat>37</sat></wpt>
+<wpt lat="59.39354037" lon="24.69197664"><ele>57.859</ele><time>2022-05-22T10:26:42.999Z</time><name>Männid46 ja 49</name><sat>37</sat></wpt>
+<wpt lat="59.39260128" lon="24.69205374"><ele>75.280</ele><time>2022-05-22T10:35:45.999Z</time><name>Mänd37</name><sat>39</sat></wpt>
+<wpt lat="59.39253853" lon="24.69196488"><ele>74.887</ele><time>2022-05-22T10:36:36.999Z</time><name>Mänd42</name><sat>38</sat></wpt>
+<wpt lat="59.39249562" lon="24.69194920"><ele>75.496</ele><time>2022-05-22T10:37:15.999Z</time><name>Mänd25</name><sat>40</sat></wpt>
+<wpt lat="59.39243628" lon="24.69188490"><ele>74.172</ele><time>2022-05-22T10:37:45.999Z</time><name>Mänd22</name><sat>38</sat></wpt>
+<wpt lat="59.39242706" lon="24.69189173"><ele>75.676</ele><time>2022-05-22T10:38:14.999Z</time><name>Mänd28</name><sat>40</sat></wpt>
+<wpt lat="59.39229882" lon="24.69182102"><ele>75.171</ele><time>2022-05-22T10:39:04.999Z</time><name>Mänd27</name><sat>39</sat></wpt>
+<wpt lat="59.39229094" lon="24.69185714"><ele>75.357</ele><time>2022-05-22T10:39:19.999Z</time><name>Mänd19</name><sat>38</sat></wpt>
+<wpt lat="59.39229589" lon="24.69187729"><ele>74.829</ele><time>2022-05-22T10:39:34.999Z</time><name>Mänd20</name><sat>38</sat></wpt>
+<wpt lat="59.39230198" lon="24.69184499"><ele>73.685</ele><time>2022-05-22T10:40:04.999Z</time><name>Mänd26</name><sat>38</sat></wpt>
+<wpt lat="59.39230061" lon="24.69184590"><ele>74.828</ele><time>2022-05-22T10:40:29.999Z</time><name>Mänd17</name><sat>38</sat></wpt>
+<wpt lat="59.39231120" lon="24.69186050"><ele>75.367</ele><time>2022-05-22T10:40:43.999Z</time><name></name><sat>38</sat></wpt>
+<wpt lat="59.39230279" lon="24.69187411"><ele>75.816</ele><time>2022-05-22T10:41:03.999Z</time><name>Mänd18</name><sat>38</sat></wpt>
+<wpt lat="59.39229393" lon="24.69186290"><ele>75.911</ele><time>2022-05-22T10:41:22.999Z</time><name>Mänd20</name><sat>40</sat></wpt>
+<wpt lat="59.39227725" lon="24.69186482"><ele>76.548</ele><time>2022-05-22T10:41:46.999Z</time><name>Mänd22</name><sat>39</sat></wpt>
+<wpt lat="59.39226094" lon="24.69183339"><ele>76.778</ele><time>2022-05-22T10:42:30.999Z</time><name>Mänd25</name><sat>38</sat></wpt>
+<wpt lat="59.39220415" lon="24.69177767"><ele>76.786</ele><time>2022-05-22T10:43:03.999Z</time><name>Mänd21</name><sat>38</sat></wpt>
+<wpt lat="59.39217283" lon="24.69172622"><ele>75.183</ele><time>2022-05-22T10:43:22.999Z</time><name>Mänd26</name><sat>39</sat></wpt>
+<wpt lat="59.39215100" lon="24.69169696"><ele>75.990</ele><time>2022-05-22T10:43:40.999Z</time><name>Mänd22</name><sat>38</sat></wpt>
+<wpt lat="59.39211156" lon="24.69166349"><ele>76.247</ele><time>2022-05-22T10:44:09.999Z</time><name>Mänd14</name><sat>39</sat></wpt>
+<wpt lat="59.39209896" lon="24.69165802"><ele>76.263</ele><time>2022-05-22T10:44:28.999Z</time><name>Mänd10</name><sat>39</sat></wpt>
+<wpt lat="59.39193505" lon="24.69169660"><ele>75.915</ele><time>2022-05-22T10:44:59.999Z</time><name>Mänd40</name><sat>38</sat></wpt>
+<wpt lat="59.39181526" lon="24.69166786"><ele>75.465</ele><time>2022-05-22T10:45:35.999Z</time><name>Mänd40</name><sat>38</sat></wpt>
+<wpt lat="59.39180339" lon="24.69161718"><ele>76.366</ele><time>2022-05-22T10:46:04.999Z</time><name>Mänd42</name><sat>40</sat></wpt>
+<wpt lat="59.39171606" lon="24.69160813"><ele>75.151</ele><time>2022-05-22T10:46:33.999Z</time><name>Mänd45</name><sat>39</sat></wpt>
+<wpt lat="59.39169379" lon="24.69161110"><ele>75.332</ele><time>2022-05-22T10:47:00.999Z</time><name>Paju25</name><sat>38</sat></wpt>
+<wpt lat="59.39155682" lon="24.69159517"><ele>74.815</ele><time>2022-05-22T10:47:27.999Z</time><name>Mänd34</name><sat>40</sat></wpt>
+<wpt lat="59.39152733" lon="24.69152513"><ele>76.051</ele><time>2022-05-22T10:47:51.999Z</time><name>Mänd43</name><sat>40</sat></wpt>
+<wpt lat="59.39137378" lon="24.69162102"><ele>74.723</ele><time>2022-05-22T10:48:28.999Z</time><name>Mänd37</name><sat>41</sat></wpt>
+<wpt lat="59.39137163" lon="24.69159840"><ele>74.861</ele><time>2022-05-22T10:48:44.999Z</time><name>Mänd31</name><sat>41</sat></wpt>
+<wpt lat="59.39136346" lon="24.69160415"><ele>75.284</ele><time>2022-05-22T10:48:59.999Z</time><name>Mänd42</name><sat>39</sat></wpt>
+<wpt lat="59.39518333" lon="24.68772500"><ele>37.300</ele><time>2022-05-22T10:04:11Z</time><name>44 mänd</name><sat>29</sat></wpt>
+<wpt lat="59.39479333" lon="24.68804000"><ele>35.300</ele><time>2022-05-22T10:10:09Z</time><name>32 mänd</name><sat>27</sat></wpt>
+<wpt lat="59.39304833" lon="24.68928833"><ele>35.200</ele><time>2022-05-22T10:15:23Z</time><name>7 lehtpuu</name><sat>28</sat></wpt>
+<wpt lat="59.39298833" lon="24.68935667"><ele>36.300</ele><time>2022-05-22T10:15:42Z</time><name>7 lehtpuu</name><sat>27</sat></wpt>
+<wpt lat="59.39296000" lon="24.68937167"><ele>34.500</ele><time>2022-05-22T10:16:00Z</time><name>8 lehtpuu</name><sat>27</sat></wpt>
+<wpt lat="59.39332500" lon="24.69162500"><ele>30.800</ele><time>2022-05-22T10:20:38Z</time><name>39 lehtpuu põhjendamatu raie</name><sat>28</sat></wpt>
+<wpt lat="59.39332167" lon="24.69152333"><ele>29.800</ele><time>2022-05-22T10:22:02Z</time><name>11 lehtpuu põhjendamatu raie</name><sat>30</sat></wpt>
+<wpt lat="59.39332500" lon="24.69163000"><ele>31.700</ele><time>2022-05-22T10:22:45Z</time><name>7 lehtpuu põhjendamatu raie</name><sat>30</sat></wpt>
+<wpt lat="59.39333333" lon="24.69162500"><ele>30.100</ele><time>2022-05-22T10:23:37Z</time><name>44 lehtpuu põhjendamatu raie</name><sat>28</sat></wpt>
+<wpt lat="59.39338000" lon="24.69191333"><ele>30.100</ele><time>2022-05-22T10:24:49Z</time><name>15 lehtpuu</name><sat>28</sat></wpt>
+<wpt lat="59.39338500" lon="24.69191833"><ele>28.200</ele><time>2022-05-22T10:25:15Z</time><name>12 lehtpuu</name><sat>28</sat></wpt>
+<wpt lat="59.39338500" lon="24.69191833"><ele>28.200</ele><time>2022-05-22T10:25:50Z</time><name>10 lehtpuu</name><sat>29</sat></wpt>
+<wpt lat="59.39338500" lon="24.69191833"><ele>28.200</ele><time>2022-05-22T10:26:08Z</time><name>10 lehtpuu</name><sat>27</sat></wpt>
+<wpt lat="59.39338500" lon="24.69191833"><ele>28.200</ele><time>2022-05-22T10:26:33Z</time><name>46 lehtpuu</name><sat>29</sat></wpt>
+<wpt lat="59.39338500" lon="24.69191833"><ele>28.200</ele><time>2022-05-22T10:26:59Z</time><name>54 lehtpuu</name><sat>29</sat></wpt>
+<wpt lat="59.39338500" lon="24.69191833"><ele>28.200</ele><time>2022-05-22T10:27:33Z</time><name>8 lehtpuu</name><sat>29</sat></wpt>
+<wpt lat="59.39348833" lon="24.69213500"><ele>28.400</ele><time>2022-05-22T10:28:34Z</time><name>36 mänd</name><sat>29</sat></wpt>
+<wpt lat="59.39352000" lon="24.69215000"><ele>30.900</ele><time>2022-05-22T10:29:37Z</time><name>7 lehtpuu</name><sat>28</sat></wpt>
+<wpt lat="59.39356000" lon="24.69223167"><ele>34.900</ele><time>2022-05-22T10:31:25Z</time><name>54 mänd</name><sat>28</sat></wpt>
+<wpt lat="59.39356000" lon="24.69223167"><ele>34.900</ele><time>2022-05-22T10:31:52Z</time><name>50 mänd</name><sat>26</sat></wpt>
+<wpt lat="59.39431167" lon="24.69296667"><ele>31.900</ele><time>2022-05-22T10:35:22Z</time><name>39 mänd ? Vana</name><sat>27</sat></wpt>
+<wpt lat="59.39474000" lon="24.69328667"><ele>34.200</ele><time>2022-05-22T10:37:27Z</time><name>31 lehtpuu</name><sat>28</sat></wpt>
+<wpt lat="59.39486333" lon="24.69335333"><ele>29.800</ele><time>2022-05-22T10:38:28Z</time><name>26 lehtpuu</name><sat>27</sat></wpt>
+<wpt lat="59.39486333" lon="24.69335333"><ele>29.800</ele><time>2022-05-22T10:38:48Z</time><name>27 lehtpuu</name><sat>27</sat></wpt>
+<wpt lat="59.39486333" lon="24.69335333"><ele>29.800</ele><time>2022-05-22T10:39:06Z</time><name>49 lehtpuu</name><sat>25</sat></wpt>
+<wpt lat="59.39488500" lon="24.69335667"><ele>25.600</ele><time>2022-05-22T10:39:30Z</time><name>43 lehtpuu</name><sat>27</sat></wpt>
+<wpt lat="59.39488500" lon="24.69335667"><ele>25.600</ele><time>2022-05-22T10:39:56Z</time><name>15 lehtpuu</name><sat>27</sat></wpt>
+<wpt lat="59.39518493" lon="24.68773647"><ele>59.336</ele><time>2022-05-22T10:04:08.999Z</time><name>44 mänd</name><sat>26</sat></wpt>
+<wpt lat="59.39517803" lon="24.68775590"><ele>60.227</ele><time>2022-05-22T10:05:21.999Z</time><name>26 mänd</name><sat>26</sat></wpt>
+<wpt lat="59.39513924" lon="24.68764219"><ele>62.541</ele><time>2022-05-22T10:07:42.999Z</time><name>40 mänd</name><sat>25</sat></wpt>
+<wpt lat="59.39500313" lon="24.68786982"><ele>63.711</ele><time>2022-05-22T10:08:35.999Z</time><name>30 mänd</name><sat>26</sat></wpt>
+<wpt lat="59.39481286" lon="24.68797227"><ele>64.637</ele><time>2022-05-22T10:09:21.999Z</time><name>38 mänd</name><sat>26</sat></wpt>
+<wpt lat="59.39479215" lon="24.68793174"><ele>65.150</ele><time>2022-05-22T10:09:58.999Z</time><name>48 mänd</name><sat>26</sat></wpt>
+<wpt lat="59.39307641" lon="24.68916958"><ele>68.889</ele><time>2022-05-22T10:14:18.999Z</time><name>16 lehtpuu</name><sat>25</sat></wpt>
+<wpt lat="59.39307417" lon="24.68917703"><ele>68.917</ele><time>2022-05-22T10:14:44.999Z</time><name>15 lehtpuu</name><sat>25</sat></wpt>
+<wpt lat="59.39307416" lon="24.68917925"><ele>68.943</ele><time>2022-05-22T10:15:01.999Z</time><name>13 lehtpuu</name><sat>26</sat></wpt>
+<wpt lat="59.39306913" lon="24.68917975"><ele>68.975</ele><time>2022-05-22T10:15:15.999Z</time><name>10 lehtpuu</name><sat>26</sat></wpt>
+<wpt lat="59.39306398" lon="24.68917743"><ele>68.995</ele><time>2022-05-22T10:15:27.999Z</time><name>6 lehtpuu</name><sat>26</sat></wpt>
+<wpt lat="59.39304181" lon="24.68974525"><ele>69.673</ele><time>2022-05-22T10:17:17.999Z</time><name>27 lehtpuu</name><sat>24</sat></wpt>
+<wpt lat="59.39303649" lon="24.68975208"><ele>69.690</ele><time>2022-05-22T10:17:28.999Z</time><name>10 lehtpuu</name><sat>25</sat></wpt>
+<wpt lat="59.39328574" lon="24.69155801"><ele>71.238</ele><time>2022-05-22T10:19:57.999Z</time><name>31 mänd kahe puu vahel</name><sat>25</sat></wpt>
+<wpt lat="59.39331873" lon="24.69162641"><ele>72.086</ele><time>2022-05-22T10:21:41.999Z</time><name>8 lehtpuu</name><sat>25</sat></wpt>
+<wpt lat="59.39332784" lon="24.69165167"><ele>72.186</ele><time>2022-05-22T10:22:05.999Z</time><name>8 lehtpuu</name><sat>24</sat></wpt>
+<wpt lat="59.39335511" lon="24.69168520"><ele>72.454</ele><time>2022-05-22T10:22:40.999Z</time><name>43 mänd</name><sat>24</sat></wpt>
+<wpt lat="59.39335516" lon="24.69170471"><ele>72.592</ele><time>2022-05-22T10:23:00.999Z</time><name>12 vaher, põhjendamatu</name><sat>25</sat></wpt>
+<wpt lat="59.39334858" lon="24.69171211"><ele>72.726</ele><time>2022-05-22T10:23:45.999Z</time><name>7 lehtpuu, põhjendamatu raie</name><sat>24</sat></wpt>
+<wpt lat="59.39341496" lon="24.69164716"><ele>73.195</ele><time>2022-05-22T10:24:31.999Z</time><name>12 lehtpuu</name><sat>25</sat></wpt>
+<wpt lat="59.39341897" lon="24.69171379"><ele>73.403</ele><time>2022-05-22T10:25:08.999Z</time><name>47 mänd, kas on uus känd</name><sat>24</sat></wpt>
+<wpt lat="59.39349189" lon="24.69172460"><ele>74.007</ele><time>2022-05-22T10:26:29.999Z</time><name>10 lehtpuy</name><sat>24</sat></wpt>
+<wpt lat="59.39350114" lon="24.69171497"><ele>74.048</ele><time>2022-05-22T10:26:39.999Z</time><name>8 lehtpuu</name><sat>24</sat></wpt>
+<wpt lat="59.39350950" lon="24.69171981"><ele>74.070</ele><time>2022-05-22T10:26:48.999Z</time><name>8 lehtpuy</name><sat>25</sat></wpt>
+<wpt lat="59.39352256" lon="24.69175000"><ele>74.234</ele><time>2022-05-22T10:27:08.999Z</time><name>6 lehtpuu</name><sat>24</sat></wpt>
+<wpt lat="59.39362395" lon="24.69172386"><ele>74.901</ele><time>2022-05-22T10:28:39.999Z</time><name>7 lehtpuu</name><sat>24</sat></wpt>
+<wpt lat="59.39356328" lon="24.69188991"><ele>74.920</ele><time>2022-05-22T10:28:53.999Z</time><name>62 mänd</name><sat>24</sat></wpt>
+<wpt lat="59.39354953" lon="24.69192632"><ele>75.049</ele><time>2022-05-22T10:29:32.999Z</time><name>12 lehtpuu</name><sat>25</sat></wpt>
+<wpt lat="59.39375692" lon="24.69254562"><ele>75.746</ele><time>2022-05-22T10:33:04.999Z</time><name>19 mänd</name><sat>24</sat></wpt>
+<wpt lat="59.39444697" lon="24.69303389"><ele>76.282</ele><time>2022-05-22T10:35:28.999Z</time><name>48 lehtpuu</name><sat>25</sat></wpt>
+<wpt lat="59.39448143" lon="24.69300991"><ele>76.295</ele><time>2022-05-22T10:35:53.999Z</time><name>45 lehtpuu</name><sat>25</sat></wpt>
+<wpt lat="59.39457164" lon="24.69314111"><ele>76.375</ele><time>2022-05-22T10:36:51.999Z</time><name>18 lehtpuu</name><sat>25</sat></wpt>
+<wpt lat="59.39493259" lon="24.69342316"><ele>76.552</ele><time>2022-05-22T10:38:39.999Z</time><name>11 lebtpuu</name><sat>24</sat></wpt>
+<wpt lat="59.39494312" lon="24.69342337"><ele>76.556</ele><time>2022-05-22T10:39:08.999Z</time><name>12 lebtpuu</name><sat>24</sat></wpt>
+<wpt lat="59.39495685" lon="24.69341209"><ele>76.552</ele><time>2022-05-22T10:39:33.999Z</time><name>9 lehtpuy</name><sat>24</sat></wpt>
+<wpt lat="59.39519214" lon="24.68781822"><ele>73.260</ele><time>2022-05-22T10:04:13Z</time><name>44 mänd</name><sat>21</sat></wpt>
+<wpt lat="59.39513826" lon="24.68780240"><ele>67.119</ele><time>2022-05-22T10:06:09Z</time><name>34 mänd</name><sat>21</sat></wpt>
+<wpt lat="59.39484156" lon="24.68805431"><ele>62.782</ele><time>2022-05-22T10:09:15Z</time><name>25 mänd</name><sat>22</sat></wpt>
+<wpt lat="59.39478130" lon="24.68808895"><ele>61.939</ele><time>2022-05-22T10:10:00Z</time><name>42 mänd</name><sat>21</sat></wpt>
+<wpt lat="59.39471915" lon="24.68812320"><ele>61.034</ele><time>2022-05-22T10:10:30Z</time><name>19 mänd</name><sat>21</sat></wpt>
+<wpt lat="59.39475381" lon="24.68853503"><ele>65.361</ele><time>2022-05-22T10:12:05Z</time><name>44 mänd</name><sat>21</sat></wpt>
+<wpt lat="59.39478279" lon="24.68866145"><ele>68.940</ele><time>2022-05-22T10:13:18Z</time><name>34 mänd</name><sat>22</sat></wpt>
+<wpt lat="59.39481342" lon="24.68866229"><ele>69.260</ele><time>2022-05-22T10:14:40Z</time><name>29 mänd</name><sat>21</sat></wpt>
+<wpt lat="59.39490890" lon="24.68913074"><ele>64.227</ele><time>2022-05-22T10:15:46Z</time><name>49 mänd</name><sat>24</sat></wpt>
+<wpt lat="59.39485297" lon="24.68919009"><ele>61.912</ele><time>2022-05-22T10:16:45Z</time><name>37 mänd</name><sat>24</sat></wpt>
+<wpt lat="59.39497044" lon="24.68950072"><ele>54.979</ele><time>2022-05-22T10:20:40Z</time><name>19 mänd</name><sat>25</sat></wpt>
+<wpt lat="59.39492781" lon="24.68955751"><ele>58.892</ele><time>2022-05-22T10:21:29Z</time><name>11 mänd</name><sat>23</sat></wpt>
+<wpt lat="59.39557601" lon="24.69246756"><ele>63.095</ele><time>2022-05-22T10:24:41Z</time><name>42?</name><sat>22</sat></wpt>
+<wpt lat="59.39557552" lon="24.69238717"><ele>63.057</ele><time>2022-05-22T10:25:35Z</time><name>37?</name><sat>24</sat></wpt>
+<wpt lat="59.39555894" lon="24.69238753"><ele>62.222</ele><time>2022-05-22T10:26:09Z</time><name>46?</name><sat>26</sat></wpt>
+<wpt lat="59.39556030" lon="24.69237439"><ele>57.626</ele><time>2022-05-22T10:26:43Z</time><name>21?</name><sat>26</sat></wpt>
+<wpt lat="59.39554464" lon="24.69247999"><ele>52.702</ele><time>2022-05-22T10:27:13Z</time><name>21?</name><sat>27</sat></wpt>
+<wpt lat="59.39560972" lon="24.69283492"><ele>50.873</ele><time>2022-05-22T10:28:11Z</time><name>41 mänd</name><sat>26</sat></wpt>
+<wpt lat="59.39561512" lon="24.69290865"><ele>49.467</ele><time>2022-05-22T10:28:45Z</time><name>25 mänd</name><sat>25</sat></wpt>
+<wpt lat="59.39561489" lon="24.69288852"><ele>49.692</ele><time>2022-05-22T10:29:08Z</time><name>22 mänd</name><sat>26</sat></wpt>
+<wpt lat="59.39564901" lon="24.69288531"><ele>49.708</ele><time>2022-05-22T10:29:48Z</time><name>39 mänd</name><sat>26</sat></wpt>
+<wpt lat="59.39573113" lon="24.69318646"><ele>51.832</ele><time>2022-05-22T10:30:54Z</time><name>10 mänd</name><sat>26</sat></wpt>
+<wpt lat="59.39574795" lon="24.69319442"><ele>53.240</ele><time>2022-05-22T10:31:20Z</time><name>38 mänd</name><sat>28</sat></wpt>
+<wpt lat="59.39578705" lon="24.69333245"><ele>57.613</ele><time>2022-05-22T10:32:16Z</time><name>44 mänd</name><sat>26</sat></wpt>
+<wpt lat="59.39577496" lon="24.69335585"><ele>58.212</ele><time>2022-05-22T10:32:53Z</time><name>34 mänd</name><sat>27</sat></wpt>
+<wpt lat="59.39578047" lon="24.69327121"><ele>57.488</ele><time>2022-05-22T10:33:31Z</time><name>7 mänd</name><sat>23</sat></wpt>
+<wpt lat="59.39578528" lon="24.69326683"><ele>57.565</ele><time>2022-05-22T10:33:50Z</time><name>8?</name><sat>25</sat></wpt>
+<wpt lat="59.39580054" lon="24.69341288"><ele>57.246</ele><time>2022-05-22T10:34:52Z</time><name>24 mänd</name><sat>27</sat></wpt>
+<wpt lat="59.39562334" lon="24.69359080"><ele>56.261</ele><time>2022-05-22T10:35:34.999Z</time><name>41 mänd</name><sat>24</sat></wpt>
+<wpt lat="59.39548382" lon="24.69366165"><ele>55.737</ele><time>2022-05-22T10:36:50.999Z</time><name>43 mänd</name><sat>25</sat></wpt>
+<wpt lat="59.39513181" lon="24.69362214"><ele>59.097</ele><time>2022-05-22T10:38:27.999Z</time><name>56?</name><sat>24</sat></wpt>
+<wpt lat="59.39513119" lon="24.69357603"><ele>58.353</ele><time>2022-05-22T10:39:28.999Z</time><name>19?</name><sat>24</sat></wpt>
+<wpt lat="59.39503109" lon="24.69358253"><ele>50.930</ele><time>2022-05-22T10:43:02.999Z</time><name>28?</name><sat>24</sat></wpt>
+
+</gpx>
+ 
