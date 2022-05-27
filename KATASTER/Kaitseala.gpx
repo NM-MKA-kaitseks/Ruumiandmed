@@ -1,0 +1,272 @@
+
+
+<trk>
+  <extensions>
+    <ogr:TUNNUS>78401:101:3223</ogr:TUNNUS>
+    <ogr:HKOOD>0482</ogr:HKOOD>
+    <ogr:MK_NIMI>Harju maakond</ogr:MK_NIMI>
+    <ogr:OV_NIMI>Tallinn</ogr:OV_NIMI>
+    <ogr:AY_NIMI>Mustam?e linnaosa</ogr:AY_NIMI>
+    <ogr:L_AADRESS>J. S?tiste tee 23</ogr:L_AADRESS>
+    <ogr:REGISTR>2017/10/10</ogr:REGISTR>
+    <ogr:MUUDET>2021/12/16</ogr:MUUDET>
+    <ogr:SIHT1>?ldkasutatav maa</ogr:SIHT1>
+    <ogr:SO_PRTS1>100</ogr:SO_PRTS1>
+    <ogr:SO_PRTS2>0</ogr:SO_PRTS2>
+    <ogr:SO_PRTS3>0</ogr:SO_PRTS3>
+    <ogr:PINDALA>301886.0</ogr:PINDALA>
+    <ogr:RUUMPIND>301886.0</ogr:RUUMPIND>
+    <ogr:REG_YHIK>M</ogr:REG_YHIK>
+    <ogr:HARITAV>0.0</ogr:HARITAV>
+    <ogr:ROHUMAA>0.0</ogr:ROHUMAA>
+    <ogr:METS>213574.0</ogr:METS>
+    <ogr:OUEMAA>0.0</ogr:OUEMAA>
+    <ogr:MUUMAA>88312.0</ogr:MUUMAA>
+    <ogr:KINNISTU>10139050</ogr:KINNISTU>
+    <ogr:MOOTVIIS>kaardi ja plaani alusel</ogr:MOOTVIIS>
+    <ogr:MOOTJA>Riigimetsa Majandamise Keskus</ogr:MOOTJA>
+    <ogr:OMVIIS>K? vastavusseviimine seadusega</ogr:OMVIIS>
+    <ogr:OMVORM>Riigiomand</ogr:OMVORM>
+    <ogr:MAKS_HIND>1195470.0</ogr:MAKS_HIND>
+    <ogr:MARKETEKST>Pindala on ebat?pne (01.07.2018)</ogr:MARKETEKST>
+    <ogr:EKSPORT>2022/05/27</ogr:EKSPORT>
+  </extensions>
+  <trkseg>
+    <trkpt lat="59.392366654179433" lon="24.687328482708423">
+    </trkpt>
+    <trkpt lat="59.39211231773951" lon="24.685044526441189">
+    </trkpt>
+    <trkpt lat="59.392073367858941" lon="24.684732403137847">
+    </trkpt>
+    <trkpt lat="59.391961145267139" lon="24.684441518585135">
+    </trkpt>
+    <trkpt lat="59.391851468318826" lon="24.684178846618266">
+    </trkpt>
+    <trkpt lat="59.391006259529433" lon="24.681194507735992">
+    </trkpt>
+    <trkpt lat="59.391517731497146" lon="24.678926238805698">
+    </trkpt>
+    <trkpt lat="59.391630701831119" lon="24.678970368000016">
+    </trkpt>
+    <trkpt lat="59.391980122846178" lon="24.679014438453468">
+    </trkpt>
+    <trkpt lat="59.392000025166226" lon="24.679818797472723">
+    </trkpt>
+    <trkpt lat="59.392366508919714" lon="24.679774687638247">
+    </trkpt>
+    <trkpt lat="59.392344550673208" lon="24.679072887748891">
+    </trkpt>
+    <trkpt lat="59.392448642144188" lon="24.679445612915924">
+    </trkpt>
+    <trkpt lat="59.392538037769953" lon="24.679517789104516">
+    </trkpt>
+    <trkpt lat="59.392861852262726" lon="24.682824288549678">
+    </trkpt>
+    <trkpt lat="59.392434374804324" lon="24.683169871423335">
+    </trkpt>
+    <trkpt lat="59.393024455638994" lon="24.686628352020072">
+    </trkpt>
+    <trkpt lat="59.394605114809522" lon="24.685972044623437">
+    </trkpt>
+    <trkpt lat="59.39485935817553" lon="24.686226554705978">
+    </trkpt>
+    <trkpt lat="59.394960110335958" lon="24.686942666812968">
+    </trkpt>
+    <trkpt lat="59.395145377909529" lon="24.686842362020119">
+    </trkpt>
+    <trkpt lat="59.395781475348031" lon="24.691553780916909">
+    </trkpt>
+    <trkpt lat="59.395851156920052" lon="24.692027625345819">
+    </trkpt>
+    <trkpt lat="59.396054866691117" lon="24.69319911335992">
+    </trkpt>
+    <trkpt lat="59.396156883423203" lon="24.693668340127232">
+    </trkpt>
+    <trkpt lat="59.396248699141623" lon="24.694097053831253">
+    </trkpt>
+    <trkpt lat="59.396497170091479" lon="24.695101552297313">
+    </trkpt>
+    <trkpt lat="59.396869539601752" lon="24.696389522162512">
+    </trkpt>
+    <trkpt lat="59.396373408849989" lon="24.697046545665891">
+    </trkpt>
+    <trkpt lat="59.396296321606613" lon="24.696821779329166">
+    </trkpt>
+    <trkpt lat="59.395253526565597" lon="24.698200747715457">
+    </trkpt>
+    <trkpt lat="59.394296424152408" lon="24.698384506771337">
+    </trkpt>
+    <trkpt lat="59.394047420591328" lon="24.698432402446791">
+    </trkpt>
+    <trkpt lat="59.394180560214743" lon="24.701146216475813">
+    </trkpt>
+    <trkpt lat="59.394226619357632" lon="24.7020870601987">
+    </trkpt>
+    <trkpt lat="59.393922793758989" lon="24.701927872395594">
+    </trkpt>
+    <trkpt lat="59.3934059319702" lon="24.701939620253459">
+    </trkpt>
+    <trkpt lat="59.393330866778179" lon="24.701556145765402">
+    </trkpt>
+    <trkpt lat="59.3931317281207" lon="24.700416826341687">
+    </trkpt>
+    <trkpt lat="59.393047778477161" lon="24.699880228155081">
+    </trkpt>
+    <trkpt lat="59.392991232244043" lon="24.699321840231022">
+    </trkpt>
+    <trkpt lat="59.392964434925304" lon="24.698519767439933">
+    </trkpt>
+    <trkpt lat="59.392932678004691" lon="24.697822493488768">
+    </trkpt>
+    <trkpt lat="59.392888749331242" lon="24.697371554732829">
+    </trkpt>
+    <trkpt lat="59.392863295068409" lon="24.697110021856261">
+    </trkpt>
+    <trkpt lat="59.392832859928802" lon="24.696941317971913">
+    </trkpt>
+    <trkpt lat="59.392772471999812" lon="24.696699138866482">
+    </trkpt>
+    <trkpt lat="59.392712892673984" lon="24.696473697395607">
+    </trkpt>
+    <trkpt lat="59.392552177276123" lon="24.696072308052536">
+    </trkpt>
+    <trkpt lat="59.393077536460581" lon="24.696184904358752">
+    </trkpt>
+    <trkpt lat="59.392784659504116" lon="24.692129982488602">
+    </trkpt>
+    <trkpt lat="59.392786925238156" lon="24.692023546201455">
+    </trkpt>
+    <trkpt lat="59.393068603332658" lon="24.689702634915584">
+    </trkpt>
+    <trkpt lat="59.393073178693072" lon="24.689600468298185">
+    </trkpt>
+    <trkpt lat="59.392916849652472" lon="24.688940469778096">
+    </trkpt>
+    <trkpt lat="59.392461192310982" lon="24.687583824518921">
+    </trkpt>
+    <trkpt lat="59.392366654179433" lon="24.687328482708423">
+    </trkpt>
+  </trkseg>
+</trk>
+
+<trk>
+  <extensions>
+    <ogr:TUNNUS>78401:101:3225</ogr:TUNNUS>
+    <ogr:HKOOD>0524</ogr:HKOOD>
+    <ogr:MK_NIMI>Harju maakond</ogr:MK_NIMI>
+    <ogr:OV_NIMI>Tallinn</ogr:OV_NIMI>
+    <ogr:AY_NIMI>N?mme linnaosa</ogr:AY_NIMI>
+    <ogr:L_AADRESS>Piiri tn 14</ogr:L_AADRESS>
+    <ogr:REGISTR>2017/10/10</ogr:REGISTR>
+    <ogr:MUUDET>2021/12/16</ogr:MUUDET>
+    <ogr:SIHT1>?ldkasutatav maa</ogr:SIHT1>
+    <ogr:SO_PRTS1>100</ogr:SO_PRTS1>
+    <ogr:SO_PRTS2>0</ogr:SO_PRTS2>
+    <ogr:SO_PRTS3>0</ogr:SO_PRTS3>
+    <ogr:PINDALA>189302.0</ogr:PINDALA>
+    <ogr:RUUMPIND>189302.0</ogr:RUUMPIND>
+    <ogr:REG_YHIK>M</ogr:REG_YHIK>
+    <ogr:HARITAV>0.0</ogr:HARITAV>
+    <ogr:ROHUMAA>0.0</ogr:ROHUMAA>
+    <ogr:METS>144902.0</ogr:METS>
+    <ogr:OUEMAA>0.0</ogr:OUEMAA>
+    <ogr:MUUMAA>44400.0</ogr:MUUMAA>
+    <ogr:KINNISTU>10823150</ogr:KINNISTU>
+    <ogr:MOOTVIIS>kaardi ja plaani alusel</ogr:MOOTVIIS>
+    <ogr:MOOTJA>Riigimetsa Majandamise Keskus</ogr:MOOTJA>
+    <ogr:OMVIIS>K? vastavusseviimine seadusega</ogr:OMVIIS>
+    <ogr:OMVORM>Riigiomand</ogr:OMVORM>
+    <ogr:MAKS_HIND>749640.0</ogr:MAKS_HIND>
+    <ogr:MARKETEKST>Pindala on ebat?pne (01.07.2018)</ogr:MARKETEKST>
+    <ogr:EKSPORT>2022/05/27</ogr:EKSPORT>
+  </extensions>
+  <trkseg>
+    <trkpt lat="59.391517731497146" lon="24.678926238805698">
+    </trkpt>
+    <trkpt lat="59.391006259529433" lon="24.681194507735992">
+    </trkpt>
+    <trkpt lat="59.391851468318826" lon="24.684178846618266">
+    </trkpt>
+    <trkpt lat="59.391961145267139" lon="24.684441518585135">
+    </trkpt>
+    <trkpt lat="59.392073367858941" lon="24.684732403137847">
+    </trkpt>
+    <trkpt lat="59.39211231773951" lon="24.685044526441189">
+    </trkpt>
+    <trkpt lat="59.392366654179433" lon="24.687328482708423">
+    </trkpt>
+    <trkpt lat="59.392461192310982" lon="24.687583824518921">
+    </trkpt>
+    <trkpt lat="59.392916849652472" lon="24.688940469778096">
+    </trkpt>
+    <trkpt lat="59.393073178693072" lon="24.689600468298185">
+    </trkpt>
+    <trkpt lat="59.393068603332658" lon="24.689702634915584">
+    </trkpt>
+    <trkpt lat="59.392786925238156" lon="24.692023546201455">
+    </trkpt>
+    <trkpt lat="59.392784659504116" lon="24.692129982488602">
+    </trkpt>
+    <trkpt lat="59.393077536460581" lon="24.696184904358752">
+    </trkpt>
+    <trkpt lat="59.392552177276123" lon="24.696072308052536">
+    </trkpt>
+    <trkpt lat="59.392338558848735" lon="24.695710151045208">
+    </trkpt>
+    <trkpt lat="59.392156795272221" lon="24.695452134244132">
+    </trkpt>
+    <trkpt lat="59.391891649612241" lon="24.695157578041723">
+    </trkpt>
+    <trkpt lat="59.391716431876702" lon="24.695070594667602">
+    </trkpt>
+    <trkpt lat="59.391608832977234" lon="24.695064184686441">
+    </trkpt>
+    <trkpt lat="59.391605387190566" lon="24.694951828265708">
+    </trkpt>
+    <trkpt lat="59.391447768939429" lon="24.694507050853851">
+    </trkpt>
+    <trkpt lat="59.391107498031083" lon="24.69388680108646">
+    </trkpt>
+    <trkpt lat="59.390987142055607" lon="24.693371688687034">
+    </trkpt>
+    <trkpt lat="59.39091771685829" lon="24.6929012578662">
+    </trkpt>
+    <trkpt lat="59.390695639897991" lon="24.690834653172683">
+    </trkpt>
+    <trkpt lat="59.39069101661395" lon="24.690791969585582">
+    </trkpt>
+    <trkpt lat="59.39054546972978" lon="24.689583662122828">
+    </trkpt>
+    <trkpt lat="59.390419391210827" lon="24.688529749203134">
+    </trkpt>
+    <trkpt lat="59.390249634833218" lon="24.687123161893052">
+    </trkpt>
+    <trkpt lat="59.390011139459283" lon="24.686001721364981">
+    </trkpt>
+    <trkpt lat="59.38988496942391" lon="24.685493928858126">
+    </trkpt>
+    <trkpt lat="59.389620450056256" lon="24.684506093477985">
+    </trkpt>
+    <trkpt lat="59.389589133175662" lon="24.684538200491279">
+    </trkpt>
+    <trkpt lat="59.389444455026393" lon="24.683997844276195">
+    </trkpt>
+    <trkpt lat="59.38981404492214" lon="24.683650265259622">
+    </trkpt>
+    <trkpt lat="59.389904304765565" lon="24.683037517136984">
+    </trkpt>
+    <trkpt lat="59.389883254203291" lon="24.68278684148105">
+    </trkpt>
+    <trkpt lat="59.390031264237429" lon="24.682202343699679">
+    </trkpt>
+    <trkpt lat="59.390251253648366" lon="24.680684415104565">
+    </trkpt>
+    <trkpt lat="59.390496667266206" lon="24.680079839418834">
+    </trkpt>
+    <trkpt lat="59.391243295167506" lon="24.679311326179075">
+    </trkpt>
+    <trkpt lat="59.391517731497146" lon="24.678926238805698">
+    </trkpt>
+  </trkseg>
+</trk>
+
