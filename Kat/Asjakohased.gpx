@@ -101,4 +101,84 @@
   </trkseg>
 </trk>
 
+<trk>
+  <extensions>
+    <ogr:TUNNUS>78405:501:0267</ogr:TUNNUS>
+    <ogr:HKOOD>0482</ogr:HKOOD>
+    <ogr:MK_NIMI>Harju maakond</ogr:MK_NIMI>
+    <ogr:OV_NIMI>Tallinn</ogr:OV_NIMI>
+    <ogr:AY_NIMI>Mustam?e linnaosa</ogr:AY_NIMI>
+    <ogr:L_AADRESS>M?nniliiva tn 6</ogr:L_AADRESS>
+    <ogr:REGISTR>2010/05/20</ogr:REGISTR>
+    <ogr:MUUDET>2021/12/16</ogr:MUUDET>
+    <ogr:SIHT1>?ldkasutatav maa</ogr:SIHT1>
+    <ogr:SO_PRTS1>100</ogr:SO_PRTS1>
+    <ogr:SO_PRTS2>0</ogr:SO_PRTS2>
+    <ogr:SO_PRTS3>0</ogr:SO_PRTS3>
+    <ogr:PINDALA>92867.0</ogr:PINDALA>
+    <ogr:RUUMPIND>92867.0</ogr:RUUMPIND>
+    <ogr:REG_YHIK>M</ogr:REG_YHIK>
+    <ogr:HARITAV>0.0</ogr:HARITAV>
+    <ogr:ROHUMAA>0.0</ogr:ROHUMAA>
+    <ogr:METS>35273.0</ogr:METS>
+    <ogr:OUEMAA>0.0</ogr:OUEMAA>
+    <ogr:MUUMAA>57594.0</ogr:MUUMAA>
+    <ogr:KINNISTU>25064601</ogr:KINNISTU>
+    <ogr:MOOTVIIS>m??distatud, L-EST</ogr:MOOTVIIS>
+    <ogr:MOOTJA>O? Via Geo</ogr:MOOTJA>
+    <ogr:MOODUST>2009/11/27</ogr:MOODUST>
+    <ogr:OMVIIS>K? vastavusseviimine seadusega</ogr:OMVIIS>
+    <ogr:OMVORM>Eraomand</ogr:OMVORM>
+    <ogr:MAKS_HIND>367750.0</ogr:MAKS_HIND>
+    <ogr:MARKETEKST>-</ogr:MARKETEKST>
+    <ogr:EKSPORT>2022/05/27</ogr:EKSPORT>
+  </extensions>
+  <trkseg>
+    <trkpt lat="59.394487569184854" lon="24.679077761431181">
+    </trkpt>
+    <trkpt lat="59.394641221509744" lon="24.679014278758675">
+    </trkpt>
+    <trkpt lat="59.394732988583122" lon="24.678974913165007">
+    </trkpt>
+    <trkpt lat="59.395189866000734" lon="24.682573290917837">
+    </trkpt>
+    <trkpt lat="59.395126125146753" lon="24.682712655296417">
+    </trkpt>
+    <trkpt lat="59.394979993546478" lon="24.683108059829188">
+    </trkpt>
+    <trkpt lat="59.394855620219786" lon="24.683531177904612">
+    </trkpt>
+    <trkpt lat="59.394754645280905" lon="24.683977290463595">
+    </trkpt>
+    <trkpt lat="59.394677900145076" lon="24.68444183851868">
+    </trkpt>
+    <trkpt lat="59.394626399466908" lon="24.684919562868053">
+    </trkpt>
+    <trkpt lat="59.394600619416451" lon="24.685405193673517">
+    </trkpt>
+    <trkpt lat="59.394600857638096" lon="24.68589328158879">
+    </trkpt>
+    <trkpt lat="59.394605114809522" lon="24.685972044623437">
+    </trkpt>
+    <trkpt lat="59.393024455638994" lon="24.686628352020072">
+    </trkpt>
+    <trkpt lat="59.392434374804324" lon="24.683169871423335">
+    </trkpt>
+    <trkpt lat="59.392861852262726" lon="24.682824288549678">
+    </trkpt>
+    <trkpt lat="59.392538037769953" lon="24.679517789104516">
+    </trkpt>
+    <trkpt lat="59.392851279342473" lon="24.679770767840004">
+    </trkpt>
+    <trkpt lat="59.393095353044401" lon="24.679667902715355">
+    </trkpt>
+    <trkpt lat="59.393493515371127" lon="24.679729847270313">
+    </trkpt>
+    <trkpt lat="59.394428326537657" lon="24.679337610644051">
+    </trkpt>
+    <trkpt lat="59.394487569184854" lon="24.679077761431181">
+    </trkpt>
+  </trkseg>
+</trk>
+
 </gpx>
