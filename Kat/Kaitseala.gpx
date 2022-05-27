@@ -36,7 +36,7 @@
   <trkseg>
     <extensions>
       <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
-        <color>228B22</color>
+        <color>#228B22</color>
         <opacity>0.5</opacity>
         <weight>3</weight>
         <linecap>square</linecap>
@@ -196,7 +196,7 @@
   <trkseg>
     <extensions>
       <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
-        <color>228B22</color>
+        <color>#228B22</color>
         <opacity>0.5</opacity>
         <weight>3</weight>
         <linecap>square</linecap>
@@ -328,7 +328,7 @@
   <trkseg>
     <extensions>
       <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
-        <color>228B22</color>
+        <color>#228B22</color>
         <opacity>0.5</opacity>
         <weight>3</weight>
         <linecap>square</linecap>
