@@ -34,17 +34,6 @@
     <ogr:EKSPORT>2022/05/27</ogr:EKSPORT>
   </extensions>
   <trkseg>
-    <extensions>
-      <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
-        <color>#228B22</color>
-        <opacity>0.5</opacity>
-        <weight>3</weight>
-        <linecap>square</linecap>
-        <linejoin>square</linejoin>
-        <dasharray>0,10</dasharray>
-        <dashoffset>3</dashoffset>
-      </line>
-    </extensions>
     <trkpt lat="59.392366654179433" lon="24.687328482708423">
     </trkpt>
     <trkpt lat="59.39211231773951" lon="24.685044526441189">
@@ -194,17 +183,6 @@
     <ogr:EKSPORT>2022/05/27</ogr:EKSPORT>
   </extensions>
   <trkseg>
-    <extensions>
-      <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
-        <color>#228B22</color>
-        <opacity>0.5</opacity>
-        <weight>3</weight>
-        <linecap>square</linecap>
-        <linejoin>square</linejoin>
-        <dasharray>0,10</dasharray>
-        <dashoffset>3</dashoffset>
-      </line>
-    </extensions>
     <trkpt lat="59.391517731497146" lon="24.678926238805698">
     </trkpt>
     <trkpt lat="59.391006259529433" lon="24.681194507735992">
@@ -326,17 +304,6 @@
     <ogr:EKSPORT>2022/05/27</ogr:EKSPORT>
   </extensions>
   <trkseg>
-    <extensions>
-      <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
-        <color>#228B22</color>
-        <opacity>0.5</opacity>
-        <weight>3</weight>
-        <linecap>square</linecap>
-        <linejoin>square</linejoin>
-        <dasharray>0,10</dasharray>
-        <dashoffset>3</dashoffset>
-      </line>
-    </extensions>
     <trkpt lat="59.387974503308563" lon="24.667647701020201">
     </trkpt>
     <trkpt lat="59.388015106899381" lon="24.66702306639543">
